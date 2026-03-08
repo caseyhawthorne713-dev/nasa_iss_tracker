@@ -1,0 +1,11 @@
+---
+
+services:
+    api:
+        build:
+            context: ./
+            dockerfile: ./Dockerfile
+        image: casyeh/coe332sp26-fastapi
+        container_name: api3
+        ports:
+            - "8000:8000"
