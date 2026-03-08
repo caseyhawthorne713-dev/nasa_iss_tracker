@@ -1,4 +1,4 @@
-# nasa-iss-tracker - fastapi application
+# nasa-iss-tracker → fastapi application
 ![Python](https://img.shields.io/badge/python-3.10+-magenta?logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-TACC-orange)
 ![System](https://img.shields.io/badge/System-Lonestar6-lightblue)
